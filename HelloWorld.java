@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Carlos Daniel Tzun-Morales
  */
 
 public class HelloWorld {
